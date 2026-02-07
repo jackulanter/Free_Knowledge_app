@@ -1,4 +1,4 @@
-I know that the file names are not as PRETTY as you would like. But I don't like naming them so deal with it. 
+I know that the file names are not as PRETTY as you would like. But I don't like naming them so deal with it. by the way this is the first thing that I have tried to make. and I don't know how to do that much because there are no instructions that say what to do without having to use a different app or website to learn about it. 
 
 THE SEED CRYSTAL: MATHEMATICAL FORMULATION OF AN ANCIENT TRUTH
 
