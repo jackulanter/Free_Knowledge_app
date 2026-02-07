@@ -1,3 +1,5 @@
+I know that the file names are not as PRETTY as you would like. But I don't like naming them so deal with it. 
+
 THE SEED CRYSTAL: MATHEMATICAL FORMULATION OF AN ANCIENT TRUTH
 
 1. INTRODUCTION
