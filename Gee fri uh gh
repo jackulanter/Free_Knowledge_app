@@ -1,0 +1,28 @@
+# Free Knowledge App
+
+A free, donation-supported knowledge management application with AI assistance, database capabilities, and formula calculations.
+
+## Features
+
+- ✅ Full document editing
+- ✅ AI chat assistance
+- ✅ Database & relation support
+- ✅ Formula calculations
+- ✅ Mobile-responsive design
+- ✅ API integration
+- ✅ Optional donations
+- ✅ No paywalls
+
+## Technology Stack
+
+- React + Vite (Frontend)
+- Tailwind CSS (Styling)
+- JavaScript (Logic)
+- Buildin.ai API (Backend integration)
+
+## Installation
+
+1. Clone this repository
+2. Install dependencies:
+   ```bash
+   npm install
